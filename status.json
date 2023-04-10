@@ -1,0 +1,36 @@
+{
+        "Durations" : 
+        {
+                "graph_351828896" : 232031,
+                "graph_414293776" : 127878,
+                "graph_73097728" : 3282
+        },
+        "gpuUsageInfo" : 
+        {
+                "3b:00.0" : 
+                {
+                        "deviceMemPoolSize" : 66060288,
+                        "deviceMemStable" : 1048576,
+                        "deviceMemUsedMax" : 32781568,
+                        "deviceMemUsedMin" : 494080,
+                        "deviceMemUsedNvidia" : -1,
+                        "hostMemPoolSize" : 68719476736,
+                        "hostMemUsedMax" : 0,
+                        "hostMemUsedMin" : 0,
+                        "swapReason" : ""
+                },
+                "86:00.0" : 
+                {
+                        "deviceMemPoolSize" : 0,
+                        "deviceMemStable" : 0,
+                        "deviceMemUsedMax" : 0,
+                        "deviceMemUsedMin" : 0,
+                        "deviceMemUsedNvidia" : -1,
+                        "hostMemPoolSize" : 68719476736,
+                        "hostMemUsedMax" : 0,
+                        "hostMemUsedMin" : 0,
+                        "swapReason" : ""
+                }
+        },
+        "miniBatchDuration" : 232031
+}
